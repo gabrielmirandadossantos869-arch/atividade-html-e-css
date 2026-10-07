@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    background-color: #e6e0d9;
+    color:#1c1c1c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    background-color: #f82626;
+    color:#000000;
+    text-align: center;
+    padding:20px;
+}
+
+header h1{
+    margin:0;
+}
+
+header p{
+    margin-bottom:0;
+    color:#ffffff;
+}
+
+
+
+
+.sobre_event{
+    width:520px;
+    margin:40px auto;
+    border: 10px solid;
+    border-color: #FF1717;
+    border-left: none;
+    border-bottom: none;
+    border-radius: 20px;
+    background-color: #080808;
+}
+.sobre_event p{
+    color: #e6e0d9;
+    display: block;
+    text-align: center;
+    font-family: 'poppins';
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.sobre_event h2{
+    color: #f82626;
+    display: block;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+img{
+    width:520px;
+    margin:40px auto;
+    border: 7px solid #FF1717;
+    border-left: none;
+    border-bottom: none;
+    border-radius: 20px;
+    display: block;
+    
+
+}
+.info_event{
+    width:520px;
+    margin:40px auto;
+    border: 10px solid;
+    border-color: #FF1717;
+    border-left: none;
+    border-bottom: none;
+    border-radius: 20px;
+    background-color: #080808;
+}
+.info_event h2{
+    color: #f82626;
+    font-family: 'Montserrat';
+
+}
+
+.info_event strong{
+    color: #8b0303;
+    margin-left: 10px;
+    font-family: 'rodoto bold';
+}
+.info_event p{
+    color: #e6e0d9;
+    font-family: 'poppins';
+    margin-left: 7px;
+    margin-bottom: 10px;
+}
+   
+
+
+
+.progra{
+    width:520px;
+    margin:40px auto;
+    border: 10px solid;
+    border-color: #FF1717;
+    border-left: none;
+    border-bottom: none;
+    border-radius: 20px;
+    background-color: #080808;
+}
+.progra h2{
+    color: #f82626;
+    font-family:'Montserrat';
+    text-align: center;
+}
+
+.progra strong{
+    color: #8b0303;
+    font-family: 'rodoto bold';
+}
+.progra p{
+    color: #e6e0d9;
+    font-family:'poppins';
+}
+
+.parti{
+  width:520px;
+    margin:40px auto;
+    border: 10px solid;
+    border-color: #FF1717;
+    border-left: none;
+    border-bottom: none;
+    border-radius: 20px;
+    background-color: #080808;
+}
+
+.parti h2{
+    color: #f82626;
+    text-align: center;
+    font-family:'Montserrat';
+}
+
+.parti p{
+    color: #e6e0d9;
+    font-family:'poppins';
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.botao{
+    display: block;
+    background-color: #1c1c1c;
+    color: #ff0000;
+    padding: 12px;
+    margin-top: 25px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    margin: auto;
+}
+
+.botao:hover{
+    background-color: #220d0d;
+}
+
+
+
+footer p{
+    text-align: center;
+}
+
+ 
+
+
+
+
+strong{
+    color: #FF1717;
+}
+
+body{
+    background-color: #000000;
+}
